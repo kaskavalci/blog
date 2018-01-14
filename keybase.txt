@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/kaskavalci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kaskavalci.com
+  * I am kaskavalci (https://keybase.io/kaskavalci) on keybase.
+  * I have a public key with fingerprint BCAF 90AE D8BF 26D5 FC76  EA6D 4CCC 4F88 3FB7 A667
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101de3939852fa490de97070ade8d5edc9c00e3d26a9f2e35c3fe81e6be3500dcc60a",
+            "fingerprint": "bcaf90aed8bf26d5fc76ea6d4ccc4f883fb7a667",
+            "host": "keybase.io",
+            "key_id": "4ccc4f883fb7a667",
+            "kid": "0101de3939852fa490de97070ade8d5edc9c00e3d26a9f2e35c3fe81e6be3500dcc60a",
+            "uid": "aa5760f44bdd98210dfabcfb4dc4d700",
+            "username": "kaskavalci"
+        },
+        "revoke": {
+            "sig_ids": [
+                "6c604f502f07ed25ab4aca3aebcbb4dbd0df82070b9bfb3142015dfaaa69a8610f"
+            ]
+        },
+        "service": {
+            "hostname": "kaskavalci.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1489394933,
+    "expire_in": 157680000,
+    "prev": "3a9fa48b8eb8a3ec6f6453c6daa755ee652bf34c2ffaa3747408104cc423a5a5",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.65
+Comment: https://keybase.io/crypto
+
+yMJuAnicrZJPbBVFHMdfWyy0WoIhJkJV4mCBalNnd2Z3Z19VhDaRaE0vYlopPH8z
+85t2bfv2+Xb7sCENCiFG0gMKFkKoNMQDITVYUwOFixVUTC9CTPyTmOgBPejBRLEx
+TdXZRk96dC/77/v7fL/znbnaUJOrr+o63Hbu4pF7pqrm534bznV/3HtrH5GxHiH5
+fWQAl284qDFJCwORJnlCHepoZCELheca4CHVGAY0oKBRaA+1ChWlyLTrQ2hcZJ5i
+BoWDvrTPlGqlfAqkhZio2IflUjkqphYrFZiQAmohjetrz6jAR/A1V0pxIwQzMgDf
+D+xgf5xkEzachARbo9h+sy+F5Xj/of+fcw8v4wC8wKeGc6l1KFyHagNSGcm14jqg
+NBMmWC7CEGZZIRmACgyqiIy2kDJW4gHMmk2iPhs7IfldxLd4bjzqGhqgdj2QHBQw
+QKmkpUptHYRr88pQGskc7lLHs6YAfgjCd6ghuy3belYitQzPevqXf6uKh2y2UjlO
+YxUP2n/9aVrKZ7HSkVKm3Yuy8DelIKOitttkBypYTqK4SPKOVao0yrAOF7ZOHjLW
+QvClUlTGQpQpbDOC2iuzwYpFMtsocCEFSgEMlW987jHla4DA8xB9z5WGceUaux4W
+8IBT4VC7ldxl4IFHsnW9WIxJPrQxoc8ibXNFSIfLSEY//KB3Ra6qPld7W3V2fHP1
+dWv+OdQXz61cumvlul9nZ1+bGJtva07SxZqF0we+O7qxcVVD3Z5vTy5e6W7u6N47
+ww6Nt2xc3EM3n3msqfrg9be21HU2jh96//ond/Q//OWpRxomd9Ndo60/ftRxdaSm
+c8O7676af35b7dLOC39unf2i68wPPTfGZn4ym7c0PXfre2jv6l6YaZo6f/TO/voN
+09i4tqv30cm2xz99FWafmpjeebb5jcvvnEB67Zu7xdbLp9pPrr92tmey8OzolePT
+z+xfdfPlufde2fT1Uu7t1ccO/9w88fTxP/Y/VH1++/rJN/HCsdL9O+5bnd5+6Zeh
+36dfX+D3Th15cOFzcenmjfiBEwdqt3+2rW7t6Xi442DPky+smOt8Ymy8fewvjmlc
+Jw==
+=h6do
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaskavalci
+
+==================================================================
+

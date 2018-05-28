@@ -46,6 +46,8 @@ git config --global alias.m "merge"
 git config --global alias.mt "mergetool"
 git config --global merge.conflictstyle diff3
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+# Prevent history changing git push --force commands
+git config --system receive.denyNonFastForwards true
 ##
 ## Choose your diff and merge tools
 ##

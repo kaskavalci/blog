@@ -42,6 +42,7 @@ git config --global alias.co "checkout"
 git config --global alias.a "add -u"
 git config --global alias.f "fetch --all"
 git config --global alias.p "push"
+git config --global alias.pp "pull -p"
 git config --global alias.m "merge"
 git config --global alias.mt "mergetool"
 git config --global merge.conflictstyle diff3

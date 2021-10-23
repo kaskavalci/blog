@@ -43,7 +43,7 @@ the steps there.
 If you have a single service that does not depend on others, you can skip that
 part. Imagine the following scenario.
 
-![Service Dependency](img/2021-10-23-service-dependency.jpg)
+![Service Dependency](/assets/2021-10-23-service-dependency.jpg)
 
 In this dependency graph, Service A and Service B both use otel v0.20.0.
 Service B depends on Service A. Now, Service B wants to upgrade to otel v0.25.0.

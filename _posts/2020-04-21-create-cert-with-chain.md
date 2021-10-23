@@ -79,7 +79,7 @@ Our issuer is `DigiCert SHA2 Secure Server CA`. Searching that in [DigiCert Root
 Certificate](https://www.digicert.com/digicert-root-certificates.htm) yields to
 following result
 
-![](img/digicert-root-ca.png)
+![](/assets/digicert-root-ca.png)
 
 Download the certificate (PEM format) and open it in a text editor. You'll see
 something like:

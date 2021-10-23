@@ -14,7 +14,7 @@ title_separator: "-"
 name: "Halil Kaskavalci"
 description: "Yet another geek blog"
 url: "http://kaskavalci.com"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "/"
 repository: "kaskavalci/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

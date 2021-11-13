@@ -52,9 +52,9 @@ podman [issue #11397](https://github.com/containers/podman/issues/11397).
 
 ```sh
 # Create a SSH tunnel to the guest OS
-ssh -nNT -L/tmp/podman.sock:/run/user/1000/podman/podman.sock -i ~/.ssh/podman-machine-default ssh://core@localhost:55591
+$ ssh -nNT -L/tmp/podman.sock:/run/user/1000/podman/podman.sock -i ~/.ssh/podman-machine-default ssh://core@localhost:55591
 # Use podman as DOCKER_HOST
-export DOCKER_HOST='unix:///tmp/podman.sock'
+$ export DOCKER_HOST='unix:///tmp/podman.sock'
 ```
 
 ### Minikube

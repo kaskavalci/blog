@@ -82,12 +82,13 @@ This may or may not be an issue for your setup.
 [Rancher Desktop](https://rancherdesktop.io/) is
 another alternative to Docker Desktop. It is maintained by
 [Rancher](https://rancher.com/). In my experience I wasn't able to fully
-integrate it. It is under active development. It is be definitely an
-alternative for the future.
+integrate it. It is under active development. It is definitely an
+alternative.
 
 ## Conclusion
 
-I have been using podman actively for a week now. In my experience, podman is the slimmest and stable alternative to Docker Desktop.
+I have been using podman actively for a week now. In my experience, podman is
+the slimmest and stable alternative to Docker Desktop.
 
 ## Further reading / watching
 

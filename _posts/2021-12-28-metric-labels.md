@@ -13,13 +13,17 @@ and `response_code`. This would help classifying the events with respect to
 their characteristics. Below is an example from [Google Cloud Monitoring](https://cloud.google.com/monitoring/api/v3/metric-model#generic-label-info).
 
 
-![Google Cloud](https://web.archive.org/web/20211022154656im_/https://cloud.google.com/monitoring/images/ts-in-a-metric.png)
+![Google Cloud](../assets/2021-12-28-metric-labels-labels.jpg)
+
+Image Credit: Google
 
 Labels are great but you should be careful using them. This is because
 [Cardinality](https://cloud.google.com/monitoring/api/v3/metric-model#cardinality).
 Each label combination creates a new time series.
 
-![Google Cloud](https://web.archive.org/web/20211022154656im_/https://cloud.google.com/monitoring/images/cardinality.png)
+![Google Cloud](../assets/2021-12-28-metric-labels-time-series.jpg)
+
+Image Credit: Google
 
 This behavior means, labels should be finite and preferably a small set.
 

@@ -231,3 +231,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "assets"
+    values:
+      image: true

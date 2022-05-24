@@ -234,4 +234,5 @@ defaults:
   - scope:
       path: "assets"
     values:
+      permalink: /:categories/:title
       image: true

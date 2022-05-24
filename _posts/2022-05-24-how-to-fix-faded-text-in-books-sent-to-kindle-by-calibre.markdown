@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to fix faded text in books sent to Kindle by Calibre"
 tags:
  - calibre
